@@ -1,2 +1,2 @@
-console.log('heelo github!');
-console.log("Hello github workflow");
+console.log("Hello GitHub!");
+console.log("Hello GitHub Workflow!");
